@@ -46,8 +46,8 @@
     {
       "Name": "Team-CitySim",
       "Color": [ 40, 40, 240 ],
-      "StartPosition": [ 150, 40 ],
-      "AgentCount": 120,
+      "StartPosition": [ 290, 130 ],
+      "AgentCount": 40,
       "MinKeepThreshold": 20,
       "ThresholdFitness": 20,
       "BestPerformerKeepRate": 0.1,
